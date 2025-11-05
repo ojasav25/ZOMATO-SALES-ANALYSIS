@@ -1,0 +1,201 @@
+restaurant_id,name,location,cuisine,avg_cost,rating,online_order,votes,sales
+1,Restaurant_1,Pune,Fast Food,752,4.1,Yes,64,116077
+2,Restaurant_2,Chennai,North Indian,1319,2.6,Yes,672,94169
+3,Restaurant_3,Hyderabad,Japanese,1115,4,Yes,718,135804
+4,Restaurant_4,Pune,Fast Food,958,4.9,No,338,127422
+5,Restaurant_5,Bangalore,Italian,1839,3.9,Yes,527,219498
+6,Restaurant_6,Hyderabad,Italian,846,3.5,No,280,83855
+7,Restaurant_7,Hyderabad,Italian,1515,4.1,Yes,972,214242
+8,Restaurant_8,Pune,Italian,1372,3.6,Yes,469,152624
+9,Restaurant_9,Mumbai,Italian,1835,3.9,Yes,206,234721
+10,Restaurant_10,Bangalore,Fast Food,316,4.9,Yes,599,68757
+11,Restaurant_11,Pune,Fast Food,1495,3.5,Yes,490,173085
+12,Restaurant_12,Bangalore,Chinese,1543,4.9,Yes,146,251916
+13,Restaurant_13,Bangalore,South Indian,457,4.8,Yes,460,81976
+14,Restaurant_14,Hyderabad,Continental,776,3,No,338,83401
+15,Restaurant_15,Chennai,Italian,1369,2.7,Yes,303,113543
+16,Restaurant_16,Bangalore,North Indian,1696,2.8,Yes,245,126117
+17,Restaurant_17,Kolkata,Continental,817,2.5,No,647,67233
+18,Restaurant_18,Hyderabad,Fast Food,398,2.7,Yes,883,57016
+19,Restaurant_19,Mumbai,North Indian,1360,4.2,Yes,571,158424
+20,Restaurant_20,Chennai,North Indian,579,2.7,No,566,62259
+21,Restaurant_21,Kolkata,North Indian,1672,3.3,No,684,188648
+22,Restaurant_22,Kolkata,Chinese,796,4.6,Yes,891,115484
+23,Restaurant_23,Mumbai,Fast Food,601,2.6,No,914,53041
+24,Restaurant_24,Chennai,North Indian,480,4.5,Yes,167,96106
+25,Restaurant_25,Hyderabad,Italian,906,3.2,Yes,855,121548
+26,Restaurant_26,Delhi,Japanese,1422,2.8,Yes,958,139868
+27,Restaurant_27,Chennai,North Indian,999,4.2,No,208,141316
+28,Restaurant_28,Mumbai,Chinese,1292,4.1,Yes,864,182366
+29,Restaurant_29,Kolkata,Continental,1439,4.7,Yes,277,228215
+30,Restaurant_30,Hyderabad,Fast Food,490,4.3,Yes,926,68676
+31,Restaurant_31,Chennai,Chinese,552,4.5,Yes,265,81163
+32,Restaurant_32,Delhi,North Indian,1280,3.2,Yes,997,126783
+33,Restaurant_33,Delhi,Fast Food,1227,2.9,Yes,745,101533
+34,Restaurant_34,Bangalore,Japanese,1484,4.4,Yes,64,209148
+35,Restaurant_35,Bangalore,North Indian,1579,4.5,Yes,206,233048
+36,Restaurant_36,Pune,Chinese,1646,5,Yes,697,271720
+37,Restaurant_37,Mumbai,South Indian,427,3.5,Yes,310,62469
+38,Restaurant_38,Chennai,Italian,317,3.4,Yes,206,65201
+39,Restaurant_39,Chennai,Continental,865,4.4,Yes,96,136465
+40,Restaurant_40,Pune,Chinese,869,3.4,No,373,96044
+41,Restaurant_41,Kolkata,Fast Food,1646,4.8,Yes,893,258207
+42,Restaurant_42,Kolkata,North Indian,985,4.6,Yes,734,146141
+43,Restaurant_43,Pune,Italian,925,3.6,Yes,179,98510
+44,Restaurant_44,Kolkata,North Indian,1611,4.4,Yes,460,239374
+45,Restaurant_45,Bangalore,Fast Food,1153,4.4,Yes,144,153714
+46,Restaurant_46,Chennai,North Indian,1986,2.8,Yes,676,144481
+47,Restaurant_47,Pune,South Indian,1261,4.8,Yes,804,209630
+48,Restaurant_48,Chennai,Italian,1962,3.8,Yes,981,204954
+49,Restaurant_49,Delhi,Italian,454,4.6,Yes,341,85585
+50,Restaurant_50,Bangalore,Fast Food,789,3.3,Yes,843,100369
+51,Restaurant_51,Hyderabad,Continental,1709,4.7,Yes,860,264360
+52,Restaurant_52,Bangalore,South Indian,1084,3.5,Yes,332,112114
+53,Restaurant_53,Pune,Chinese,1427,2.5,Yes,118,133403
+54,Restaurant_54,Hyderabad,North Indian,1716,4.8,Yes,709,249855
+55,Restaurant_55,Delhi,Japanese,545,2.7,Yes,60,61333
+56,Restaurant_56,Pune,North Indian,1499,3.3,Yes,303,151596
+57,Restaurant_57,Mumbai,North Indian,1362,4.9,No,891,211957
+58,Restaurant_58,Chennai,Chinese,1800,4.9,Yes,921,255711
+59,Restaurant_59,Delhi,North Indian,1058,3.9,Yes,599,121911
+60,Restaurant_60,Chennai,South Indian,837,4.1,No,183,111655
+61,Restaurant_61,Kolkata,South Indian,1220,3.6,No,761,126715
+62,Restaurant_62,Mumbai,Italian,707,3.2,Yes,72,95266
+63,Restaurant_63,Mumbai,Fast Food,824,3.3,Yes,864,104261
+64,Restaurant_64,Delhi,Continental,1127,4.2,No,395,142055
+65,Restaurant_65,Mumbai,Japanese,1829,4.4,No,351,202948
+66,Restaurant_66,Hyderabad,North Indian,1202,4.5,Yes,412,176844
+67,Restaurant_67,Mumbai,North Indian,335,4.5,Yes,445,66259
+68,Restaurant_68,Chennai,Chinese,984,2.7,Yes,267,93988
+69,Restaurant_69,Chennai,Fast Food,319,3.7,Yes,190,69820
+70,Restaurant_70,Pune,South Indian,620,2.6,Yes,665,70673
+71,Restaurant_71,Chennai,Japanese,811,3.9,Yes,259,105840
+72,Restaurant_72,Pune,Italian,699,3.6,Yes,672,95160
+73,Restaurant_73,Chennai,South Indian,953,4.7,No,665,139675
+74,Restaurant_74,Hyderabad,Fast Food,1271,3.4,Yes,877,145621
+75,Restaurant_75,Pune,Continental,770,2.8,Yes,732,79153
+76,Restaurant_76,Bangalore,Italian,1466,2.9,No,509,106961
+77,Restaurant_77,Kolkata,Continental,1415,4.4,No,405,178029
+78,Restaurant_78,Delhi,Chinese,1677,4,Yes,373,195757
+79,Restaurant_79,Chennai,Chinese,1133,2.8,Yes,182,116198
+80,Restaurant_80,Mumbai,North Indian,1026,2.7,Yes,937,81376
+81,Restaurant_81,Chennai,Continental,1153,4.3,Yes,854,135086
+82,Restaurant_82,Mumbai,Fast Food,350,2.7,Yes,889,54271
+83,Restaurant_83,Kolkata,Japanese,1988,4.6,Yes,176,232499
+84,Restaurant_84,Kolkata,Italian,874,4.3,Yes,155,132196
+85,Restaurant_85,Kolkata,South Indian,1513,2.7,Yes,653,126503
+86,Restaurant_86,Mumbai,Fast Food,1448,2.7,Yes,848,139644
+87,Restaurant_87,Chennai,Fast Food,449,5,Yes,427,78392
+88,Restaurant_88,Kolkata,Chinese,613,3.4,Yes,954,92178
+89,Restaurant_89,Hyderabad,Continental,869,3.4,Yes,100,122983
+90,Restaurant_90,Pune,North Indian,1665,4.5,Yes,78,201739
+91,Restaurant_91,Mumbai,North Indian,604,4.9,No,511,105402
+92,Restaurant_92,Mumbai,Italian,981,5,Yes,345,144983
+93,Restaurant_93,Chennai,Chinese,1137,4.4,Yes,346,139071
+94,Restaurant_94,Mumbai,Fast Food,1377,3.4,No,775,160170
+95,Restaurant_95,Mumbai,Japanese,1302,2.7,Yes,828,115556
+96,Restaurant_96,Kolkata,Chinese,743,4.4,Yes,456,107960
+97,Restaurant_97,Chennai,Italian,912,3.9,Yes,818,120697
+98,Restaurant_98,Kolkata,Italian,1292,3.6,Yes,863,130886
+99,Restaurant_99,Pune,Chinese,563,4.8,No,662,90778
+100,Restaurant_100,Pune,Italian,1376,2.8,Yes,454,120824
+101,Restaurant_101,Kolkata,Chinese,1895,3.7,Yes,395,224783
+102,Restaurant_102,Pune,South Indian,1303,2.5,Yes,671,127641
+103,Restaurant_103,Chennai,Chinese,1943,3.7,Yes,469,221145
+104,Restaurant_104,Delhi,Continental,304,2.6,Yes,231,47049
+105,Restaurant_105,Kolkata,Chinese,1426,2.8,Yes,874,118162
+106,Restaurant_106,Hyderabad,Italian,1519,2.8,Yes,50,161749
+107,Restaurant_107,Hyderabad,Continental,1073,4.1,No,880,117537
+108,Restaurant_108,Mumbai,Italian,1176,4.4,Yes,999,157536
+109,Restaurant_109,Pune,North Indian,1291,4,Yes,616,140026
+110,Restaurant_110,Hyderabad,North Indian,1183,4.9,Yes,420,183597
+111,Restaurant_111,Mumbai,Continental,1673,3.4,Yes,985,157849
+112,Restaurant_112,Delhi,South Indian,346,3.2,Yes,960,64174
+113,Restaurant_113,Chennai,North Indian,1166,4.7,Yes,710,183549
+114,Restaurant_114,Chennai,Chinese,1122,3.1,Yes,480,125508
+115,Restaurant_115,Chennai,Italian,1235,4.9,Yes,358,162089
+116,Restaurant_116,Hyderabad,North Indian,955,2.5,Yes,186,86373
+117,Restaurant_117,Delhi,North Indian,568,4.9,No,251,85919
+118,Restaurant_118,Hyderabad,South Indian,669,2.6,Yes,485,64776
+119,Restaurant_119,Pune,Continental,935,4.7,Yes,362,142125
+120,Restaurant_120,Hyderabad,Continental,1429,3.8,Yes,166,167096
+121,Restaurant_121,Delhi,Fast Food,1993,5,No,715,295256
+122,Restaurant_122,Delhi,South Indian,1982,2.7,Yes,986,169221
+123,Restaurant_123,Pune,Chinese,956,3.9,Yes,852,121588
+124,Restaurant_124,Delhi,Continental,419,4.9,No,624,66645
+125,Restaurant_125,Delhi,Italian,1130,3.8,No,293,108165
+126,Restaurant_126,Chennai,South Indian,1927,4.1,No,586,180930
+127,Restaurant_127,Pune,North Indian,1381,4.2,Yes,651,205119
+128,Restaurant_128,Bangalore,Italian,1669,3.6,Yes,124,145026
+129,Restaurant_129,Bangalore,Italian,1040,4.1,Yes,855,110682
+130,Restaurant_130,Delhi,North Indian,1797,4,No,435,176725
+131,Restaurant_131,Bangalore,South Indian,416,4.8,Yes,952,86764
+132,Restaurant_132,Bangalore,North Indian,1090,2.6,Yes,259,118694
+133,Restaurant_133,Delhi,Fast Food,1450,3.2,Yes,524,161174
+134,Restaurant_134,Bangalore,Italian,1716,4.9,No,467,237189
+135,Restaurant_135,Hyderabad,Japanese,1312,4.7,Yes,396,188754
+136,Restaurant_136,Mumbai,Japanese,1964,3.6,Yes,578,168973
+137,Restaurant_137,Pune,Chinese,1381,4.1,Yes,689,188065
+138,Restaurant_138,Mumbai,Continental,933,3.2,Yes,988,104736
+139,Restaurant_139,Delhi,North Indian,812,3,Yes,925,89368
+140,Restaurant_140,Chennai,North Indian,1101,3.7,Yes,812,149055
+141,Restaurant_141,Pune,Chinese,1419,3.4,Yes,228,164934
+142,Restaurant_142,Delhi,Chinese,1961,4,Yes,231,233923
+143,Restaurant_143,Chennai,Chinese,1441,2.7,Yes,713,154236
+144,Restaurant_144,Mumbai,Italian,859,4.9,Yes,74,154976
+145,Restaurant_145,Delhi,Fast Food,1924,5,Yes,229,292258
+146,Restaurant_146,Pune,North Indian,787,4.2,Yes,759,116511
+147,Restaurant_147,Pune,Italian,1560,3.8,Yes,550,156145
+148,Restaurant_148,Kolkata,Chinese,1196,3.3,Yes,905,142800
+149,Restaurant_149,Hyderabad,North Indian,1595,4.5,Yes,210,181578
+150,Restaurant_150,Bangalore,Italian,1512,4.2,Yes,226,192438
+151,Restaurant_151,Chennai,Fast Food,1003,2.9,No,334,109824
+152,Restaurant_152,Kolkata,Italian,1770,4.8,Yes,112,256277
+153,Restaurant_153,Bangalore,Fast Food,880,4.6,No,711,127893
+154,Restaurant_154,Bangalore,Chinese,1089,4.9,Yes,715,159794
+155,Restaurant_155,Delhi,Fast Food,1160,4.3,Yes,205,128124
+156,Restaurant_156,Bangalore,North Indian,546,4,No,931,85241
+157,Restaurant_157,Hyderabad,Chinese,1399,3.5,Yes,518,144430
+158,Restaurant_158,Pune,North Indian,453,4.8,Yes,98,77933
+159,Restaurant_159,Kolkata,Japanese,1979,4.7,Yes,898,247683
+160,Restaurant_160,Bangalore,South Indian,1758,2.6,Yes,133,159065
+161,Restaurant_161,Delhi,Fast Food,1296,2.6,No,410,116407
+162,Restaurant_162,Hyderabad,South Indian,1409,3.4,No,738,120002
+163,Restaurant_163,Mumbai,South Indian,996,4.5,No,197,129170
+164,Restaurant_164,Pune,Fast Food,1608,5,Yes,679,234548
+165,Restaurant_165,Pune,Chinese,1543,2.9,No,391,144720
+166,Restaurant_166,Kolkata,Japanese,1392,4,No,525,157935
+167,Restaurant_167,Pune,North Indian,1370,3.5,Yes,112,147675
+168,Restaurant_168,Bangalore,Italian,1308,4.9,Yes,750,190658
+169,Restaurant_169,Delhi,North Indian,393,4.6,No,409,57217
+170,Restaurant_170,Pune,Italian,1257,4.6,Yes,610,190158
+171,Restaurant_171,Pune,North Indian,1311,3.7,No,376,134381
+172,Restaurant_172,Mumbai,Fast Food,752,3.5,Yes,818,87091
+173,Restaurant_173,Mumbai,Japanese,1527,3.2,No,785,132091
+174,Restaurant_174,Chennai,Italian,1211,2.6,Yes,190,118477
+175,Restaurant_175,Hyderabad,Continental,517,4.7,Yes,264,106340
+176,Restaurant_176,Bangalore,Chinese,773,4.5,Yes,484,122296
+177,Restaurant_177,Pune,North Indian,731,5,No,940,115604
+178,Restaurant_178,Pune,North Indian,640,5,Yes,772,127150
+179,Restaurant_179,Delhi,Italian,850,3.9,Yes,367,106636
+180,Restaurant_180,Chennai,Chinese,1935,4.4,Yes,81,238341
+181,Restaurant_181,Hyderabad,Chinese,1612,4.9,No,719,239335
+182,Restaurant_182,Chennai,Fast Food,1577,4.6,Yes,334,207015
+183,Restaurant_183,Kolkata,Continental,656,3.1,No,354,73826
+184,Restaurant_184,Hyderabad,Fast Food,322,3.6,Yes,478,55652
+185,Restaurant_185,Pune,Fast Food,821,2.8,Yes,526,72427
+186,Restaurant_186,Pune,Fast Food,1423,4.9,Yes,335,188721
+187,Restaurant_187,Hyderabad,Fast Food,1101,4,Yes,193,141122
+188,Restaurant_188,Pune,Fast Food,1503,3.1,No,473,166103
+189,Restaurant_189,Bangalore,Japanese,1546,4.2,Yes,68,160037
+190,Restaurant_190,Hyderabad,Chinese,1061,4,Yes,67,112706
+191,Restaurant_191,Chennai,Fast Food,1982,3.4,No,818,164979
+192,Restaurant_192,Hyderabad,Chinese,741,2.8,Yes,639,75488
+193,Restaurant_193,Pune,Chinese,1931,4.2,Yes,420,202570
+194,Restaurant_194,Bangalore,South Indian,1068,3.8,No,224,121722
+195,Restaurant_195,Bangalore,Japanese,1315,4.4,Yes,243,180747
+196,Restaurant_196,Kolkata,Fast Food,1648,3.8,Yes,551,164242
+197,Restaurant_197,Chennai,North Indian,815,4.6,No,162,109383
+198,Restaurant_198,Mumbai,Italian,1339,3.9,Yes,163,148670
+199,Restaurant_199,Mumbai,Continental,1091,3.9,Yes,271,128394
+200,Restaurant_200,Hyderabad,North Indian,635,4.7,Yes,727,112459
