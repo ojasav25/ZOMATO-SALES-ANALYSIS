@@ -79,10 +79,99 @@ The second CHAID node refines or validates the first model for improved accuracy
 
 
 ---
-
 5. Analysis
 
 Node: Analysis
 
 Purpose:
-Evalu
+Evaluates the CHAID model output by examining:
+
+Tree structure and splits
+
+Predictor importance
+
+Statistical metrics (p-values, chi-squared statistics)
+
+
+
+
+---
+
+6. Post-Processing
+
+Node	Function
+
+Filter	Removes unnecessary records or isolates relevant subsets for analysis.
+Aggregate	Summarizes model results (e.g., counts, averages, totals) by group or category.
+
+
+
+---
+
+7. Output Tables
+
+Multiple Table nodes are connected throughout the workflow.
+
+Each represents an intermediate or final result:
+
+Raw data previews
+
+Sorted or filtered datasets
+
+Aggregated model summaries
+
+
+
+
+---
+
+🧠 Workflow Summary
+
+This workflow demonstrates a complete data mining pipeline:
+
+1. Importing sales data
+
+
+2. Preparing and cleaning datasets
+
+
+3. Creating a target variable (SALES_CATEGORY)
+
+
+4. Partitioning data for training/testing
+
+
+5. Building CHAID models for prediction
+
+
+6. Analyzing results with performance metrics
+
+
+7. Generating outputs for reporting and decision support
+
+
+
+
+---
+
+📊 Outcome
+
+Identifies key drivers behind sales performance.
+
+Classifies sales into meaningful categories.
+
+Produces structured tables for business analysis.
+
+Provides an interpretable, rule-based decision tree output.
+
+
+
+---
+
+🧩 Technologies / Tools
+
+Data Mining & Modeling Environment (e.g., IBM SPSS Modeler or similar)
+
+CHAID Algorithm for classification
+
+CSV dataset as input
